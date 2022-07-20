@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: purple;
+    font-size: xx-large;
+    font-family: cursive;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+body{
+    background-color: bisque;
+}
